@@ -1,0 +1,4 @@
+#Thu Sep 28 14:17:57 MSK 2023
+1=Book{isbn\='1234', title\='War and Peace', authors\='Tolstoy', year\='2010'}
+2=Book{isbn\='567', title\='Kiberiada', authors\='Lem', year\='2010'}
+3=Book{isbn\='8910', title\='Poems', authors\='Burns', year\='1998'}
